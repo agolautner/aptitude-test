@@ -1,3 +1,6 @@
+//ODDITIES
+// https://open.kattis.com/problems/oddities
+
 const readline = require('readline');
 
 const rl = readline.createInterface({

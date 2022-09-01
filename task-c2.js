@@ -1,3 +1,6 @@
+//SUCCESSION
+// https://open.kattis.com/problems/succession
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
